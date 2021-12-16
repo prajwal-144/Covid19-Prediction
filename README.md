@@ -1,4 +1,4 @@
-# Covid19-Prediction
+# Covid19-Prediction (CNN)
 CNN for predicting if a person is Covid positive or negative
 
 # CNN
