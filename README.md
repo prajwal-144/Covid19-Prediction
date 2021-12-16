@@ -2,7 +2,7 @@
 CNN for predicting if a person is Covid positive or negative
 
 #CNN
-Convolutional Neural Network is a Neural Network that contains multiple convolutional layers. It deals mostly with image recognition and applies convolutional functions to input before transferring it to the next layer.
+*Convolutional Neural Network is a Neural Network that contains multiple convolutional layers. It deals mostly with image recognition and applies convolutional functions to input before transferring it to the next layer.
 CNN  takes in an input image, assigns importance like learnable weights and biases to various objects in the image and be able to differentiate one from the other.
 <img width="285" alt="WX20170812-215539copyyy" src="https://user-images.githubusercontent.com/86421205/146435937-21b051bf-072f-4423-8509-fbcd2e5cd4de.png">
 #Code
